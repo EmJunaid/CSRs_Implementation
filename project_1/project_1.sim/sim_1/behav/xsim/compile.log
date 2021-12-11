@@ -1,0 +1,46 @@
+INFO: [VRFC 10-2263] Analyzing Verilog file "D:/Documents/Semester 7/CA/Lab/Without_Csr/1st_register.v" into library xil_defaultlib
+INFO: [VRFC 10-311] analyzing module first_register
+INFO: [VRFC 10-2263] Analyzing Verilog file "D:/Documents/Semester 7/CA/Lab/Without_Csr/2nd_register.v" into library xil_defaultlib
+INFO: [VRFC 10-311] analyzing module Second_register
+INFO: [VRFC 10-2263] Analyzing Verilog file "D:/Documents/Semester 7/CA/Lab/Without_Csr/3rd_register.v" into library xil_defaultlib
+INFO: [VRFC 10-311] analyzing module third_register
+INFO: [VRFC 10-2263] Analyzing Verilog file "D:/Documents/Semester 7/CA/Lab/Without_Csr/4th_register.v" into library xil_defaultlib
+INFO: [VRFC 10-311] analyzing module fourth_register
+INFO: [VRFC 10-2263] Analyzing Verilog file "D:/Documents/Semester 7/CA/Lab/Without_Csr/Adress_Generator.v" into library xil_defaultlib
+INFO: [VRFC 10-311] analyzing module Adress_Generator
+INFO: [VRFC 10-2263] Analyzing Verilog file "D:/Documents/Semester 7/CA/Lab/Without_Csr/CSR.v" into library xil_defaultlib
+INFO: [VRFC 10-311] analyzing module csr
+INFO: [VRFC 10-2263] Analyzing Verilog file "D:/Documents/Semester 7/CA/Lab/Without_Csr/Controller.v" into library xil_defaultlib
+INFO: [VRFC 10-311] analyzing module Controller
+INFO: [VRFC 10-2263] Analyzing Verilog file "D:/Documents/Semester 7/CA/Lab/Without_Csr/Data_Memory.v" into library xil_defaultlib
+INFO: [VRFC 10-311] analyzing module Data_Memory
+INFO: [VRFC 10-2263] Analyzing Verilog file "D:/Documents/Semester 7/CA/Lab/Without_Csr/Hazart_Unit.v" into library xil_defaultlib
+INFO: [VRFC 10-311] analyzing module hazard_unit
+INFO: [VRFC 10-2263] Analyzing Verilog file "D:/Documents/Semester 7/CA/Lab/Without_Csr/Instruction_Fetch.v" into library xil_defaultlib
+INFO: [VRFC 10-311] analyzing module Instruction_Fetch
+INFO: [VRFC 10-2263] Analyzing Verilog file "D:/Documents/Semester 7/CA/Lab/Without_Csr/Instruction_Memory.v" into library xil_defaultlib
+INFO: [VRFC 10-311] analyzing module Instruction_Memory
+INFO: [VRFC 10-2263] Analyzing Verilog file "D:/Documents/Semester 7/CA/Lab/Without_Csr/PCPlus4.v" into library xil_defaultlib
+INFO: [VRFC 10-311] analyzing module PCPlus4
+INFO: [VRFC 10-2263] Analyzing Verilog file "D:/Documents/Semester 7/CA/Lab/Without_Csr/PCTarget.v" into library xil_defaultlib
+INFO: [VRFC 10-311] analyzing module PCTarget
+INFO: [VRFC 10-2263] Analyzing Verilog file "D:/Documents/Semester 7/CA/Lab/Without_Csr/Register_File.v" into library xil_defaultlib
+INFO: [VRFC 10-311] analyzing module Register_File
+INFO: [VRFC 10-2263] Analyzing Verilog file "D:/Documents/Semester 7/CA/Lab/Without_Csr/alu.v" into library xil_defaultlib
+INFO: [VRFC 10-311] analyzing module alu
+INFO: [VRFC 10-2263] Analyzing Verilog file "D:/Documents/Semester 7/CA/Lab/Without_Csr/forwardmux1.v" into library xil_defaultlib
+INFO: [VRFC 10-311] analyzing module mux5
+INFO: [VRFC 10-2263] Analyzing Verilog file "D:/Documents/Semester 7/CA/Lab/Without_Csr/forwardmux2.v" into library xil_defaultlib
+INFO: [VRFC 10-311] analyzing module mux4
+INFO: [VRFC 10-2263] Analyzing Verilog file "D:/Documents/Semester 7/CA/Lab/Without_Csr/main.v" into library xil_defaultlib
+INFO: [VRFC 10-311] analyzing module main
+INFO: [VRFC 10-2263] Analyzing Verilog file "D:/Documents/Semester 7/CA/Lab/Without_Csr/mux.v" into library xil_defaultlib
+INFO: [VRFC 10-311] analyzing module mux
+INFO: [VRFC 10-2263] Analyzing Verilog file "D:/Documents/Semester 7/CA/Lab/Without_Csr/mux2.v" into library xil_defaultlib
+INFO: [VRFC 10-311] analyzing module mux2_alu
+INFO: [VRFC 10-2263] Analyzing Verilog file "D:/Documents/Semester 7/CA/Lab/Without_Csr/mux3.v" into library xil_defaultlib
+INFO: [VRFC 10-311] analyzing module mux3
+INFO: [VRFC 10-2263] Analyzing Verilog file "D:/Documents/Semester 7/CA/Lab/Without_Csr/sign_extend.v" into library xil_defaultlib
+INFO: [VRFC 10-311] analyzing module extend
+INFO: [VRFC 10-2263] Analyzing Verilog file "D:/Documents/Semester 7/CA/Lab/Without_Csr/pipeline_tb.v" into library xil_defaultlib
+INFO: [VRFC 10-311] analyzing module pipeline_tb
