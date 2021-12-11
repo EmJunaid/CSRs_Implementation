@@ -1,0 +1,31 @@
+# compile verilog/system verilog design source files
+verilog xil_defaultlib  \
+"../../../../../1st_register.v" \
+"../../../../../2nd_register.v" \
+"../../../../../3rd_register.v" \
+"../../../../../4th_register.v" \
+"../../../../../Adress_Generator.v" \
+"../../../../../CSR.v" \
+"../../../../../Controller.v" \
+"../../../../../Data_Memory.v" \
+"../../../../../Hazart_Unit.v" \
+"../../../../../Instruction_Fetch.v" \
+"../../../../../Instruction_Memory.v" \
+"../../../../../PCPlus4.v" \
+"../../../../../PCTarget.v" \
+"../../../../../Register_File.v" \
+"../../../../../alu.v" \
+"../../../../../forwardmux1.v" \
+"../../../../../forwardmux2.v" \
+"../../../../../main.v" \
+"../../../../../mux.v" \
+"../../../../../mux2.v" \
+"../../../../../mux3.v" \
+"../../../../../sign_extend.v" \
+"../../../../../pipeline_tb.v" \
+
+# compile glbl module
+verilog xil_defaultlib "glbl.v"
+
+# Do not sort compile order
+nosort
